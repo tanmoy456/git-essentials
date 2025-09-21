@@ -1,3 +1,4 @@
+git cheat-sheet: https://git-scm.com/cheat-sheet
 
 ## Configuration:
 
