@@ -1,6 +1,6 @@
 
 ## Configuration:
 
-git config --global user.name "Your Name" # Set global user name
-git config --global user.email "your_email@example.com" # Set global user email
-git config --global color.ui auto # Enable colored Git output
+- git config --global user.name "Your Name" # Set global user name
+- git config --global user.email "your_email@example.com" # Set global user email
+- git config --global color.ui auto # Enable colored Git output
