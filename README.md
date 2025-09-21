@@ -12,9 +12,9 @@
 ## Making and Storing Changes:
 
 - git status # Show modified files, staged files, and untracked files
-- git add <file> # Stage a specific file for commit
+- git add [file] # Stage a specific file for commit
 - git add . # Stage all changes in the current directory
-- git rm <file> # Remove a file from working directory and staging area
+- git rm [file] # Remove a file from working directory and staging area
 - git commit -m "Commit message" # Commit staged changes with a message
 - git commit --amend # Amend the last commit
 - git stash # Temporarily save changes in the working directory
