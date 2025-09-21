@@ -1,0 +1,13 @@
+## Setup & identity
+
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --global core.editor "code --wait"    # or vim/nano
+git config --global color.ui true
+
+## Create / clone repos
+
+git init                # create repo in current dir
+git clone <repo-url>    # clone remote repo
+git clone -b <branch> <repo-url>  # clone specific branch
+
