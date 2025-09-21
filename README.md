@@ -35,6 +35,16 @@
 - git pull origin [branch-name] # Fetch and merge updates from a remote branch
 - git push origin [branch-name] # Push local changes to a remote branch
 
+## Branching and Merging:
+
+- git branch # List local branches
+- git branch -a # List all branches (local and remote)
+- git branch [branch-name] # Create a new branch
+- git checkout [branch-name] # Switch to an existing branch
+- git checkout -b [new-branch-name] # Create and switch to a new branch
+- git merge [branch-name] # Merge a branch into the current branch
+- git branch -d [branch-name] # Delete a local branch
+
 
 
 
