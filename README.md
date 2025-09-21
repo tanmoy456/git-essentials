@@ -19,6 +19,14 @@
 - git commit --amend # Amend the last commit
 - git stash # Temporarily save changes in the working directory
 - git stash apply # Restore stashed changes
- -git stash drop # Delete a specific stash
+-git stash drop # Delete a specific stash
+
+## Inspecting History:
+
+- git log # Display commit history
+- git log --oneline # Display condensed commit history
+- git diff # Show changes between working directory and staging area
+- git diff [commit1] [commit2] # Show changes between two commits
+
 
 
