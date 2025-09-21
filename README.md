@@ -7,5 +7,5 @@
 
 ## Starting a Project:
 - git init [project-name] # Create a new local repository
-- git clone <repository-url> # Clone a remote repository
+- git clone <[repository-url]> # Clone a remote repository
 
