@@ -30,10 +30,10 @@
 
 ## Remote Operations:
 
-- git remote add origin <repository-url> # Add a remote repository
+- git remote add origin [repository-url] # Add a remote repository
 - git fetch origin # Fetch updates from the remote repository
-- git pull origin <branch-name> # Fetch and merge updates from a remote branch
-- git push origin <branch-name> # Push local changes to a remote branch
+- git pull origin [branch-name] # Fetch and merge updates from a remote branch
+- git push origin [branch-name] # Push local changes to a remote branch
 
 
 
