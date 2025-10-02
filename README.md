@@ -1,7 +1,5 @@
 git cheat-sheet: https://git-scm.com/cheat-sheet
 
-## Git workflow
-![Git Workflow Diagram](git_workflow.png)
 
 
 ## Configuration:
