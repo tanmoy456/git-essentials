@@ -1,5 +1,9 @@
 git cheat-sheet: https://git-scm.com/cheat-sheet
 
+
+![Git Workflow Diagram](git_workflow.png)
+
+
 ## Configuration:
 
 - git config --global user.name "Your Name" # Set global user name
