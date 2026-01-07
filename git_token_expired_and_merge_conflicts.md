@@ -30,7 +30,7 @@ AFTER pull --rebase:
             D'---E'  ← commits "replayed" cleanly on top
 ```
 
-##Push Local Changes
+## Push Local Changes
 
 ```
 git push origin main
