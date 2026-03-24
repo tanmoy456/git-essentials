@@ -1,6 +1,6 @@
 git cheat-sheet: https://git-scm.com/cheat-sheet
 
-https://learngitbranching.js.org/
+```https://learngitbranching.js.org/```
 
 ## Git workflow
 ![Git Workflow Diagram](git_workflow.png)
